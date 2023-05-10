@@ -7,7 +7,7 @@
             <span style="font-weight: bolder">项目信息</span>
           </div>
           <div class="text item">
-            <span style="font-weight: bolder">yshop基于当前流行技术组合的前后端分离商城系统：</span>
+            <span style="font-weight: bolder">chatgptx-shop-admin-web 基于当前流行技术组合的前后端分离商城系统：</span>
             SpringBoot2+Jpa+MybatisPlus+SpringSecurity
             的前后端分离的商城系统，
             包含商城、拼团、砍价、商户管理、 秒杀、优惠券、积分、分销、会员、充值、门店核销等功能。

@@ -1,7 +1,7 @@
-<h1 style="text-align: center">yshop意象商城系统</h1>
+<h1 style="text-align: center">chatgptx-shop-admin-web商城系统</h1>
 
 #### 项目简介
-yshop基于当前流行技术组合的前后端分离商城系统： SpringBoot2+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城系统， 包含分类、sku、运费模板、素材库、小程序直播、拼团、砍价、商户管理、 秒杀、优惠券、积分、分销、会员、充值、多门店等功能，更适合企业或个人二次开发；
+chatgptx-shop-admin-web基于当前流行技术组合的前后端分离商城系统： SpringBoot2+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城系统， 包含分类、sku、运费模板、素材库、小程序直播、拼团、砍价、商户管理、 秒杀、优惠券、积分、分销、会员、充值、多门店等功能，更适合企业或个人二次开发；
 
 
 
@@ -227,8 +227,7 @@ server
 
 |     |  后台系统源码 |   后台系统前端源码  |
 |---  |--- | --- |
-|   码云  |  https://gitee.com/guchengwuyue/yshopmall  | https://gitee.com/guchengwuyue/yshopmall_qd |
-|   github   |  https://github.com/guchengwuyue/yshopmall |https://github.com/guchengwuyue/yshopmall_qd  |
+|   github   |  https://github.com/dadaloser/chatgptx-shop-admin-web |https://github.com/dadaloser/chatgptx-shop-admin-web  |
 
 
 

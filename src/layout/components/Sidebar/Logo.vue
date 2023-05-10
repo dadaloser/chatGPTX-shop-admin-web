@@ -25,7 +25,7 @@ export default {
   },
   data() {
     return {
-      title: 'YSHOP-后台管理',
+      title: 'chattgpx-shop-admin-web-后台管理',
       logo: Logo
     }
   }

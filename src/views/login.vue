@@ -3,23 +3,18 @@
     <div style="display:flex;justify-content:space-between;align-items: center;">
       <div style="padding: 0 60px 0 0">
         <h3 style="color: #ffffff;font-size: 24px;padding: 0;margin-bottom: 10px">
-          YSHOP单商户B2C电商系统
+          ChatGPTx单商户B2C电商系统
         </h3>
         <ul style="margin: 0;color: #ffffff;font-size: 15px;line-height: 25px;padding-left: 20px">
-          <li>Springboot2</li>
-          <li>MybatisPlus</li>
-          <li>SpringSecurity</li>
-          <li>Jwt</li>
-          <li>Redis</li>
-          <li>Vue</li>
+ 
         </ul>
         <h3 style="color: #ffffff;">
-          官网:https://www.yixiang.co
+          官网 : https://www.lastword.top
         </h3>
       </div>
       <el-form ref="loginForm" :model="loginForm" :rules="loginRules" label-position="left" label-width="0px" class="login-form">
         <h3 class="title">
-          YSHOP后台管理系统-2.3
+          ChatGPTx后台管理系统
         </h3>
         <el-form-item prop="username">
           <el-input v-model="loginForm.username" type="text" auto-complete="off" placeholder="账号">
@@ -71,8 +66,8 @@ export default {
       codeUrl: '',
       cookiePass: '',
       loginForm: {
-        username: 'admin',
-        password: '123456',
+        username: '',//admin
+        password: '',//123456
         rememberMe: false,
         code: '',
         uuid: ''
